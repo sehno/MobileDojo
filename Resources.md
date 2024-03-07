@@ -12,6 +12,7 @@
 
 ### General
 - [Frida](https://github.com/frida)
+- [Frida Script from httptoolkit](https://github.com/httptoolkit/frida-interception-and-unpinning)
 - [Objection](https://github.com/sensepost/objection)
 - [RMS](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
