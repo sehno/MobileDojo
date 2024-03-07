@@ -1,9 +1,9 @@
-# Resources
+# Resources
 
 ## Documentation
 - MASVS: [https://mas.owasp.org/MASVS/](https://mas.owasp.org/MASVS/)
 - MASTG: [https://mas.owasp.org/MASTG/](https://mas.owasp.org/MASTG/)
-- [https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview](https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview)
+- Mobile security gitbook: [https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview](https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview)
 - IOS documentation: [https://developer.apple.com/documentation/security](https://developer.apple.com/documentation/security)
 - Android documentation : [https://developer.android.com/topic/security/best-practices](https://developer.android.com/topic/security/best-practices)
 

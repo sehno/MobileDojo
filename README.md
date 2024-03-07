@@ -1,14 +1,14 @@
 ![banner](/images/dojo.jpg)
 
 # Mobile Dojo  
-Resources for practicing mobile application hacking 
+Resources for practicing mobile application hacking.  
 
 ------
 
 ## Resources
-You can find some documentation and tools to help you on mobile application hacking : [Resources](./Resources.md).
-Don't forget online platforms such as HackTheBox, TryHackMe, etc.
-Some of the challenge walkthrough will be added soon.
+You can find some documentation and tools to help you on mobile application hacking : [Resources](./Resources.md).  
+Don't forget online platforms such as HackTheBox, TryHackMe, etc.  
+Some of the challenge walkthrough will be added soon.  
 
 
 ## Challenges
