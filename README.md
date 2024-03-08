@@ -19,11 +19,14 @@ Some of the challenge walkthrough will be added soon.
 - [hpAndroid1337](https://github.com/RavikumarRamesh/hpAndro1337)
 - [InsecureShop](https://github.com/hax0rgb/InsecureShop)
 - [Allsafe](https://github.com/t0thkr1s/allsafe)
+- [Uncrackable (by Ch0pin)](https://github.com/Ch0pin/uncrackable)
 - [SSL Pinning training](https://github.com/aancw/android-ssl-pinning-signed-demo)
 - [fridalab](https://rossmarks.uk/blog/fridalab/)
 - [CyberGym](https://github.com/lucideus-repo/cybergym/tree/master/CyberGym%202/mobile)
 - [Redshift-CyberSecurity](https://github.com/Redshift-CyberSecurity/VulnerableMobileApplication)
 - [EVABS](https://github.com/abhi-r3v0/EVABS)
+
+##### Old but interesting
 - [AndroGoat](https://github.com/satishpatnayak/AndroGoat)
 - [Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 - [InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
