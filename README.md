@@ -44,6 +44,7 @@ Some of the challenge walkthrough will be added soon.
 - [Post Board](https://www.mobilehackinglab.com/course/lab-postboard)
 - [Secure Notes](https://www.mobilehackinglab.com/course/lab-secure-notes)
 - [Strings](https://www.mobilehackinglab.com/course/lab-strings)
+- [Guess ME](https://www.mobilehackinglab.com/course/lab-guess-me)
 
 #### IOS
 - [Flipcoin Waller](https://www.mobilehackinglab.com/course/lab-flipcoin-wallet)
