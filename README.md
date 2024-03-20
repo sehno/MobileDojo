@@ -48,6 +48,8 @@ Some of the challenge walkthrough will be added soon.
 - [Secure Notes](https://www.mobilehackinglab.com/course/lab-secure-notes)
 - [Strings](https://www.mobilehackinglab.com/course/lab-strings)
 - [Guess ME](https://www.mobilehackinglab.com/course/lab-guess-me)
+- [IOT Connect](https://www.mobilehackinglab.com/course/lab-iot-connect)
+- [Notekeeper](https://www.mobilehackinglab.com/course/lab-notekeeper)
 
 #### IOS
 - [Flipcoin Waller](https://www.mobilehackinglab.com/course/lab-flipcoin-wallet)
