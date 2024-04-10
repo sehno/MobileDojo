@@ -47,13 +47,15 @@ Some of the challenge walkthrough will be added soon.
 - [Post Board](https://www.mobilehackinglab.com/course/lab-postboard)
 - [Secure Notes](https://www.mobilehackinglab.com/course/lab-secure-notes)
 - [Strings](https://www.mobilehackinglab.com/course/lab-strings)
-- [Guess ME](https://www.mobilehackinglab.com/course/lab-guess-me)
+- [Guess Me](https://www.mobilehackinglab.com/course/lab-guess-me)
 - [IOT Connect](https://www.mobilehackinglab.com/course/lab-iot-connect)
 - [Notekeeper](https://www.mobilehackinglab.com/course/lab-notekeeper)
+- [Cyclic Scanner](https://www.mobilehackinglab.com/course/lab-cyclic-scanner)
 
 #### IOS
 - [Flipcoin Waller](https://www.mobilehackinglab.com/course/lab-flipcoin-wallet)
 - [Gotham Times](https://www.mobilehackinglab.com/course/lab-gotham-times)
+- [Time Trap](https://www.mobilehackinglab.com/course/lab-time-trap)
 
 
 ### OWASP-MASTG
