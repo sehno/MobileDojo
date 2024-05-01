@@ -39,6 +39,8 @@ Some of the challenge walkthrough will be added soon.
 - [DVIA-v2](https://github.com/prateek147/DVIA-v2)
 - [Frida iOS Playground](https://github.com/NVISOsecurity/frida-ios-playground)
 - [iBugBazaar](https://github.com/payatu/iBugBazaar)
+- [ios-challenge-2](https://github.com/hexploitable/r2con2020_r2frida)
+- [r2con202-crackme](https://github.com/hexploitable/r2con2020_r2frida)
 
 
 ### MobileHackingLab
