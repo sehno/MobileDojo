@@ -25,6 +25,7 @@ Some of the challenge walkthrough will be added soon.
 - [CyberGym](https://github.com/lucideus-repo/cybergym/tree/master/CyberGym%202/mobile)
 - [Redshift-CyberSecurity](https://github.com/Redshift-CyberSecurity/VulnerableMobileApplication)
 - [EVABS](https://github.com/abhi-r3v0/EVABS)
+- [BugBazaar](https://github.com/payatu/BugBazaar)
 
 ##### Old but interesting
 - [AndroGoat](https://github.com/satishpatnayak/AndroGoat)
@@ -37,6 +38,7 @@ Some of the challenge walkthrough will be added soon.
 - [IGoat](https://github.com/OWASP/igoat)
 - [DVIA-v2](https://github.com/prateek147/DVIA-v2)
 - [Frida iOS Playground](https://github.com/NVISOsecurity/frida-ios-playground)
+- [iBugBazaar](https://github.com/payatu/iBugBazaar)
 
 
 ### MobileHackingLab
